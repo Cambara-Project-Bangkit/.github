@@ -3,7 +3,17 @@
 **Team ID** : `CH2-PS247`
 
 ## Overview 
-Android application to help students learn and recognize **Aksara Bali**
+Cambara is applications which is a solution to reduce the distance between technological development and cultural education, in this case, namely **Aksara Bali**.
+
+## Backgrounder
+- Minimizing the gap between technological developments and cultural education, especially in Bahasa Bali  subjects which focus on learning to write Aksara Bali.
+- Improving the quality of cultural education by providing technology-based learning resources for students starting from basic education.
+- Increasing students' interest in studying Aksara Bali with learning media, independently wherever and whenever.
+
+## Target Market 
+This project was created as a solution to increase students' interest in learning, especially in cultural education in Bahasa Bali subjects which focus on learning to write Aksara Bali. By creating this Capstone project, it is hoped that students can experience a more enjoyable learning experience and also gain the benefits of technological developments that are developing rapidly at this time.
+
+## Application
 
 ## Contributors
 - **(ML)** M298BSY0034 – Putu Gio Satria Adinata – Universitas Pendidikan Ganesha
