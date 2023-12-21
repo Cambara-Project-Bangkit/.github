@@ -19,7 +19,7 @@ This project was created as a solution to increase students' interest in learnin
 ## Application
 <img src="/profile/assets/1.png" width=100><img src="/profile/assets/2.png" width=100><img src="/profile/assets/3.png" width=100><img src="/profile/assets/4.png" width=100><img src="/profile/assets/5.png" width=100><img src="/profile/assets/6.png" width=100>
 
-<img src="/profile/assets/7.png" width=100><img src="/profile/assets/8.png" width=100><img src="/profile/assets/9.png" width=100><img src="/profile/assets/10.png" width=100><img src="/profile/assets/11.png" width=100><img src="/profile/assets/12.png" width=100>
+<img src="/profile/assets/77.png" width=100><img src="/profile/assets/8.png" width=100><img src="/profile/assets/9.png" width=100><img src="/profile/assets/10.png" width=100><img src="/profile/assets/11.png" width=100><img src="/profile/assets/12.png" width=100>
 
 ## Contributors
 - **(ML)** M298BSY0034 – Putu Gio Satria Adinata – Universitas Pendidikan Ganesha
