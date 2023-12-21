@@ -17,11 +17,9 @@ Cambara is applications which is a solution to reduce the distance between techn
 This project was created as a solution to increase students' interest in learning, especially in cultural education in Bahasa Bali subjects which focus on learning to write Aksara Bali. By creating this Capstone project, it is hoped that students can experience a more enjoyable learning experience and also gain the benefits of technological developments that are developing rapidly at this time.
 
 ## Application
-<img src="/profile/assets/1.png" width=100><img src="/profile/assets/2.png" width=100><img src="/profile/assets/3.png" width=100><img src="/profile/assets/4.png" width=100>
+<img src="/profile/assets/1.png" width=100><img src="/profile/assets/2.png" width=100><img src="/profile/assets/3.png" width=100><img src="/profile/assets/4.png" width=100><img src="/profile/assets/5.png" width=100><img src="/profile/assets/6.png" width=100>
 
-<img src="/profile/assets/5.png" width=100><img src="/profile/assets/6.png" width=100><img src="/profile/assets/7.png" width=100><img src="/profile/assets/8.png" width=100>
-
-<img src="/profile/assets/9.png" width=100><img src="/profile/assets/10.png" width=100><img src="/profile/assets/11.png" width=100><img src="/profile/assets/12.png" width=100>
+<img src="/profile/assets/7.png" width=100><img src="/profile/assets/8.png" width=100><img src="/profile/assets/9.png" width=100><img src="/profile/assets/10.png" width=100><img src="/profile/assets/11.png" width=100><img src="/profile/assets/12.png" width=100>
 
 ## Contributors
 - **(ML)** M298BSY0034 – Putu Gio Satria Adinata – Universitas Pendidikan Ganesha
