@@ -3,7 +3,8 @@
 **Team ID** : `CH2-PS247`
 
 ## Logo
-<img src="/Logo.png"/>
+<img src="/profile/assets/logo.png">
+<img src="/profile/assets/satu.png">
 
 ## Overview 
 Cambara is applications which is a solution to reduce the distance between technological development and cultural education, in this case, namely **Aksara Bali**.
