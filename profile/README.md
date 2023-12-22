@@ -28,7 +28,7 @@ This project was created as a solution to increase students' interest in learnin
 - **(CC)** C666BSX4034 – Linda Yanti Yo – STMIK Kharisma Makassar
 - **(CC)** C298BSX3069 – Ni Putu Adinda Indah Juliantari – Universitas Pendidikan Ganesha
 - **(MD)** A298BSY1949 – Ngurah Manik Mahardika – Universitas Pendidikan Ganesha
-- **(MD)** M298BSY0034 – Bijan Austin Pratama - Universitas Budi Luhur
+- **(MD)** A194BSY2914 – Bijan Austin Pratama - Universitas Budi Luhur
 
 
 
